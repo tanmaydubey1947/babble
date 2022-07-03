@@ -13,7 +13,7 @@ public class InitialPage {
 	@GetMapping("/homePage")
 	public String babble() {
 		
-		String homePageMessage = "Hello Welcme To Babble";
+		String homePageMessage = "Hello Welcome To Babble";
 		return homePageMessage;
 	}
 	
