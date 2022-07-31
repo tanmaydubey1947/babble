@@ -1,8 +1,6 @@
 package com.main.babble.vo;
 
-import lombok.Data;
 
-@Data
 public class InitialPageVO {
 
 	private String message;
